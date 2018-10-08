@@ -1,0 +1,235 @@
+2018-09-27 15:24:43,553 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="help clear"]/div[2]/a[1]
+2018-09-27 15:26:07,993 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="help clear"]/div[2]/a[1]
+2018-09-27 15:26:11,146 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[2]/input
+2018-09-27 15:26:11,298 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[3]/input
+2018-09-27 15:26:11,436 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[4]/input
+2018-09-27 15:26:11,558 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[5]/input
+2018-09-27 15:26:11,668 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="rowSelect"]/div[1]//input
+2018-09-27 15:26:11,755 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://li[@class="el-select-dropdown__item"][6]
+2018-09-27 15:28:38,334 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="help clear"]/div[2]/a[1]
+2018-09-27 15:28:41,524 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[2]/input
+2018-09-27 15:28:41,645 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[3]/input
+2018-09-27 15:28:41,782 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[4]/input
+2018-09-27 15:28:41,903 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[5]/input
+2018-09-27 15:28:42,015 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="rowSelect"]/div[1]//input
+2018-09-27 15:28:42,089 find_element.py--> get_element 20: INFO ----->定位方式:selector--->定位值:body > div.el-select-dropdown > div > div.el-select-dropdown__wrap.el-scrollbar__wrap > ul > li:nth-child(3)
+2018-09-27 15:44:32,006 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="help clear"]/div[2]/a[1]
+2018-09-27 15:44:35,184 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[2]/input
+2018-09-27 15:44:35,355 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[3]/input
+2018-09-27 15:44:35,489 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[4]/input
+2018-09-27 15:44:35,605 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[5]/input
+2018-09-27 15:44:35,717 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="rowSelect"]/div[1]//input
+2018-09-27 15:44:35,788 find_element.py--> get_element 20: INFO ----->定位方式:selector--->定位值:body > div:nth-child(9) > div > div.el-select-dropdown__wrap.el-scrollbar__wrap > ul > li:nth-child(4)
+2018-09-27 15:53:37,648 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="help clear"]/div[2]/a[1]
+2018-09-27 15:53:40,789 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[2]/input
+2018-09-27 15:53:40,905 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[3]/input
+2018-09-27 15:53:41,038 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[4]/input
+2018-09-27 15:53:41,150 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[5]/input
+2018-09-27 15:53:41,280 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="rowSelect"]/div[1]//input
+2018-09-27 15:53:41,348 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://body/div[last()]//div/ul//li[3]
+2018-09-27 15:57:29,513 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="help clear"]/div[2]/a[1]
+2018-09-27 15:57:32,689 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[2]/input
+2018-09-27 15:57:32,878 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[3]/input
+2018-09-27 15:57:33,019 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[4]/input
+2018-09-27 15:57:33,134 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[5]/input
+2018-09-27 15:57:33,250 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="rowSelect"]/div[1]//input
+2018-09-27 15:57:33,319 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://body/div[last()]//div/ul//li[3]
+2018-09-27 16:00:17,145 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="help clear"]/div[2]/a[1]
+2018-09-27 16:00:20,383 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[2]/input
+2018-09-27 16:00:20,528 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[3]/input
+2018-09-27 16:00:20,665 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[4]/input
+2018-09-27 16:00:20,780 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[5]/input
+2018-09-27 16:00:20,889 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="rowSelect"]/div[1]//input
+2018-09-27 16:00:23,967 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://body/div[last()]//div/ul//li[3]
+2018-09-27 16:00:24,067 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="rowSelect"]/div[2]//input
+2018-09-27 16:00:24,150 find_element.py--> get_element 20: INFO ----->定位方式:selector--->定位值:body > div:nth-child(6) > div > div.el-select-dropdown__wrap.el-scrollbar__wrap > ul > li:nth-child(2)
+2018-09-27 16:29:21,999 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="help clear"]/div[2]/a[1]
+2018-09-27 16:29:25,201 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[2]/input
+2018-09-27 16:29:25,369 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[3]/input
+2018-09-27 16:29:25,499 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[4]/input
+2018-09-27 16:29:25,611 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[5]/input
+2018-09-27 16:29:25,720 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="rowSelect"]/div[1]//input
+2018-09-27 16:29:27,796 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://body/div[last()]//div/ul//li[3]
+2018-09-27 16:29:27,941 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="rowSelect"]/div[2]//input
+2018-09-27 16:29:29,026 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://body/div[last()]//div/ul//li[3]
+2018-09-27 16:29:29,212 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="rowSelect"]/div[3]//input
+2018-09-27 16:29:30,288 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://body/div[last()]//div/ul//li[3]
+2018-09-27 16:29:31,416 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[7]//input
+2018-09-27 16:29:32,599 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[8]//input
+2018-09-27 16:31:19,857 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="help clear"]/div[2]/a[1]
+2018-09-27 16:31:23,028 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[2]/input
+2018-09-27 16:31:23,176 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[3]/input
+2018-09-27 16:31:23,307 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[4]/input
+2018-09-27 16:31:23,424 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[5]/input
+2018-09-27 16:31:23,531 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="rowSelect"]/div[1]//input
+2018-09-27 16:31:25,613 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://body/div[last()]//div/ul//li[3]
+2018-09-27 16:31:25,754 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="rowSelect"]/div[2]//input
+2018-09-27 16:31:26,833 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://body/div[last()]//div/ul//li[3]
+2018-09-27 16:31:26,947 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="rowSelect"]/div[3]//input
+2018-09-27 16:31:28,013 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://body/div[last()]//div/ul//li[3]
+2018-09-27 16:31:29,094 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[7]//input
+2018-09-27 16:31:30,207 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[8]//input
+2018-09-27 16:32:30,265 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="help clear"]/div[2]/a[1]
+2018-09-27 16:32:33,468 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[2]/input
+2018-09-27 16:32:33,557 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[3]/input
+2018-09-27 16:32:33,691 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[4]/input
+2018-09-27 16:32:33,806 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[5]/input
+2018-09-27 16:32:33,916 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="rowSelect"]/div[1]//input
+2018-09-27 16:32:35,992 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://body/div[last()]//div/ul//li[3]
+2018-09-27 16:32:36,119 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="rowSelect"]/div[2]//input
+2018-09-27 16:32:37,205 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://body/div[last()]//div/ul//li[3]
+2018-09-27 16:32:37,353 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="rowSelect"]/div[3]//input
+2018-09-27 16:32:38,438 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://body/div[last()]//div/ul//li[3]
+2018-09-27 16:32:39,593 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[7]//input
+2018-09-27 16:32:40,757 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[8]//input
+2018-09-27 16:32:41,928 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://body/div[last()]//div//li[1]
+2018-09-27 16:32:42,099 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[9]//input
+2018-09-27 16:32:42,211 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[10]//input
+2018-09-27 16:32:43,286 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://body/div[last()]//div//li[1]
+2018-09-27 16:32:43,397 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[11]//i
+2018-09-27 16:35:10,731 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="help clear"]/div[2]/a[1]
+2018-09-27 16:35:13,913 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[2]/input
+2018-09-27 16:35:14,038 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[3]/input
+2018-09-27 16:35:14,173 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[4]/input
+2018-09-27 16:35:14,283 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[5]/input
+2018-09-27 16:35:14,388 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="rowSelect"]/div[1]//input
+2018-09-27 16:35:16,449 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://body/div[last()]//div/ul//li[3]
+2018-09-27 16:35:16,743 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="rowSelect"]/div[2]//input
+2018-09-27 16:35:17,815 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://body/div[last()]//div/ul//li[3]
+2018-09-27 16:35:17,954 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="rowSelect"]/div[3]//input
+2018-09-27 16:35:19,031 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://body/div[last()]//div/ul//li[3]
+2018-09-27 16:35:20,125 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[7]//input
+2018-09-27 16:35:21,362 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[8]//input
+2018-09-27 16:35:22,457 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://body/div[last()]//div//li[1]
+2018-09-27 16:35:22,547 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[9]//input
+2018-09-27 16:35:22,659 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[10]//input
+2018-09-27 16:35:23,732 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://body/div[last()]//div//li[1]
+2018-09-27 16:35:23,862 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[11]//i
+2018-09-27 16:36:57,723 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="help clear"]/div[2]/a[1]
+2018-09-27 16:37:00,903 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[2]/input
+2018-09-27 16:37:01,005 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[3]/input
+2018-09-27 16:37:01,151 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[4]/input
+2018-09-27 16:37:01,276 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[5]/input
+2018-09-27 16:37:01,421 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="rowSelect"]/div[1]//input
+2018-09-27 16:37:03,501 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://body/div[last()]//div/ul//li[3]
+2018-09-27 16:37:03,618 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="rowSelect"]/div[2]//input
+2018-09-27 16:37:04,684 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://body/div[last()]//div/ul//li[3]
+2018-09-27 16:37:04,747 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="rowSelect"]/div[3]//input
+2018-09-27 16:37:05,818 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://body/div[last()]//div/ul//li[3]
+2018-09-27 16:37:06,894 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[7]//input
+2018-09-27 16:37:08,057 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[8]//input
+2018-09-27 16:37:09,186 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://body/div[last()]//div//li[1]
+2018-09-27 16:37:09,286 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[9]//input
+2018-09-27 16:37:09,398 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[10]//input
+2018-09-27 16:37:10,474 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://body/div[last()]//div//li[1]
+2018-09-27 16:37:10,614 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[11]/div/div
+2018-09-27 16:47:38,364 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="help clear"]/div[2]/a[1]
+2018-09-27 16:47:41,535 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[2]/input
+2018-09-27 16:47:41,744 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[3]/input
+2018-09-27 16:47:41,880 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[4]/input
+2018-09-27 16:47:42,000 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[5]/input
+2018-09-27 16:47:42,111 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="rowSelect"]/div[1]//input
+2018-09-27 16:47:44,186 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://body/div[last()]//div/ul//li[3]
+2018-09-27 16:47:44,317 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="rowSelect"]/div[2]//input
+2018-09-27 16:47:45,391 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://body/div[last()]//div/ul//li[3]
+2018-09-27 16:47:45,583 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="rowSelect"]/div[3]//input
+2018-09-27 16:47:46,658 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://body/div[last()]//div/ul//li[3]
+2018-09-27 16:47:47,766 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[7]//input
+2018-09-27 16:47:48,997 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[8]//input
+2018-09-27 16:47:50,157 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://body/div[last()]//div//li[1]
+2018-09-27 16:47:50,280 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[9]//input
+2018-09-27 16:47:50,397 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[10]//input
+2018-09-27 16:47:51,471 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://body/div[last()]//div//li[1]
+2018-09-27 16:47:51,638 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="row uploadImg"]/div/div
+2018-09-27 17:03:36,547 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="help clear"]/div[2]/a[1]
+2018-09-27 17:03:39,751 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[2]/input
+2018-09-27 17:03:39,900 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[3]/input
+2018-09-27 17:03:40,041 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[4]/input
+2018-09-27 17:03:40,163 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[5]/input
+2018-09-27 17:03:40,273 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="rowSelect"]/div[1]//input
+2018-09-27 17:03:42,360 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://body/div[last()]//div/ul//li[3]
+2018-09-27 17:03:42,486 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="rowSelect"]/div[2]//input
+2018-09-27 17:03:43,564 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://body/div[last()]//div/ul//li[3]
+2018-09-27 17:03:43,710 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="rowSelect"]/div[3]//input
+2018-09-27 17:03:44,783 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://body/div[last()]//div/ul//li[3]
+2018-09-27 17:03:45,904 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[7]//input
+2018-09-27 17:03:47,045 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[8]//input
+2018-09-27 17:03:48,162 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://body/div[last()]//div//li[1]
+2018-09-27 17:03:48,289 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[9]//input
+2018-09-27 17:03:48,412 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[10]//input
+2018-09-27 17:03:49,480 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://body/div[last()]//div//li[1]
+2018-09-27 17:03:49,663 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="el-upload el-upload--text"]
+2018-09-27 17:58:06,210 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="help clear"]/div[2]/a[1]
+2018-09-27 17:58:09,445 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[2]/input
+2018-09-27 17:58:09,651 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[3]/input
+2018-09-27 17:58:09,785 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[4]/input
+2018-09-27 17:58:09,905 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[5]/input
+2018-09-27 17:58:10,015 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="rowSelect"]/div[1]//input
+2018-09-27 17:58:12,093 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://body/div[last()]//div/ul//li[3]
+2018-09-27 17:58:12,211 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="rowSelect"]/div[2]//input
+2018-09-27 17:58:13,284 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://body/div[last()]//div/ul//li[3]
+2018-09-27 17:58:13,435 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="rowSelect"]/div[3]//input
+2018-09-27 17:58:14,495 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://body/div[last()]//div/ul//li[3]
+2018-09-27 17:58:15,601 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[7]//input
+2018-09-27 17:58:16,790 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[8]//input
+2018-09-27 17:58:17,919 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://body/div[last()]//div//li[1]
+2018-09-27 17:58:18,046 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[9]//input
+2018-09-27 17:58:18,156 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[10]//input
+2018-09-27 17:58:19,234 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://body/div[last()]//div//li[1]
+2018-09-27 17:58:19,366 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="row uploadImg"]//div/div
+2018-09-27 18:02:43,720 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="help clear"]/div[2]/a[1]
+2018-09-27 18:02:46,885 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[2]/input
+2018-09-27 18:02:47,012 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[3]/input
+2018-09-27 18:02:47,144 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[4]/input
+2018-09-27 18:02:47,255 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[5]/input
+2018-09-27 18:02:47,366 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="rowSelect"]/div[1]//input
+2018-09-27 18:02:49,439 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://body/div[last()]//div/ul//li[3]
+2018-09-27 18:02:49,593 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="rowSelect"]/div[2]//input
+2018-09-27 18:02:50,673 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://body/div[last()]//div/ul//li[3]
+2018-09-27 18:02:50,842 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="rowSelect"]/div[3]//input
+2018-09-27 18:02:51,922 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://body/div[last()]//div/ul//li[3]
+2018-09-27 18:02:53,059 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[7]//input
+2018-09-27 18:02:54,214 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[8]//input
+2018-09-27 18:02:55,418 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://body/div[last()]//div//li[1]
+2018-09-27 18:02:55,530 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[9]//input
+2018-09-27 18:02:55,645 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[10]//input
+2018-09-27 18:02:56,720 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://body/div[last()]//div//li[1]
+2018-09-27 18:02:56,810 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="row uploadImg"]
+2018-09-27 18:05:35,689 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="help clear"]/div[2]/a[1]
+2018-09-27 18:05:38,818 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[2]/input
+2018-09-27 18:05:38,949 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[3]/input
+2018-09-27 18:05:39,087 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[4]/input
+2018-09-27 18:05:39,210 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[5]/input
+2018-09-27 18:05:39,327 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="rowSelect"]/div[1]//input
+2018-09-27 18:05:41,413 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://body/div[last()]//div/ul//li[3]
+2018-09-27 18:05:41,510 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="rowSelect"]/div[2]//input
+2018-09-27 18:05:42,582 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://body/div[last()]//div/ul//li[3]
+2018-09-27 18:05:42,647 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="rowSelect"]/div[3]//input
+2018-09-27 18:05:43,718 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://body/div[last()]//div/ul//li[3]
+2018-09-27 18:05:44,825 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[7]//input
+2018-09-27 18:05:45,929 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[8]//input
+2018-09-27 18:05:46,984 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://body/div[last()]//div//li[1]
+2018-09-27 18:05:47,047 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[9]//input
+2018-09-27 18:05:47,150 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[10]//input
+2018-09-27 18:05:48,216 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://body/div[last()]//div//li[1]
+2018-09-27 18:05:48,313 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="app"]/div/div[3]/div[11]/div/div
+2018-09-27 18:08:41,436 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="help clear"]/div[2]/a[1]
+2018-09-27 18:08:44,575 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[2]/input
+2018-09-27 18:08:44,680 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[3]/input
+2018-09-27 18:08:44,742 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[4]/input
+2018-09-27 18:08:44,798 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[5]/input
+2018-09-27 18:08:44,849 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="rowSelect"]/div[1]//input
+2018-09-27 18:08:47,083 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://body/div[last()]//div/ul//li[3]
+2018-09-27 18:08:47,413 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="rowSelect"]/div[2]//input
+2018-09-27 18:08:48,678 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://body/div[last()]//div/ul//li[3]
+2018-09-27 18:08:48,996 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="rowSelect"]/div[3]//input
+2018-09-27 18:08:50,238 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://body/div[last()]//div/ul//li[3]
+2018-09-27 18:08:51,538 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[7]//input
+2018-09-27 18:08:52,583 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[8]//input
+2018-09-27 18:08:53,841 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://body/div[last()]//div//li[1]
+2018-09-27 18:08:54,112 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[9]//input
+2018-09-27 18:08:54,164 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[10]//input
+2018-09-27 18:08:55,424 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://body/div[last()]//div//li[1]
+2018-09-27 18:08:55,720 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://*[@id="app"]/div/div[3]/div[11]/div/div
+2018-09-27 18:08:58,963 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[12]/input
+2018-09-27 18:08:59,003 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="doc_regContainer"]/div[14]

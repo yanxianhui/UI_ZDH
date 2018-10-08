@@ -1,0 +1,98 @@
+2018-09-26 14:18:52,354 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://input[@type="text"]
+2018-09-26 14:18:52,378 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://input[@type="password"]
+2018-09-26 14:18:52,573 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="operation"]/following-sibling::button
+2018-09-26 14:18:56,860 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="nav_box nav"]/ul/li[2]/div
+2018-09-26 14:19:00,088 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="nav_box nav"]/ul/li[2]//li[1]
+2018-09-26 14:19:04,346 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://tbody/tr[3]/td[1]/div
+2018-09-26 14:19:07,774 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://ul[@class="model_list"]/li[1]/label[1]/input
+2018-09-26 14:19:08,033 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://ul[@class="model_list"]/li[1]/label[2]/input
+2018-09-26 14:19:08,279 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://ul[@class="model_list"]/li[1]/input
+2018-09-26 14:19:08,384 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://ul[@class="img_list clear"]//li[1]/div
+2018-09-26 14:19:11,802 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://ul[@class="img_list clear"]//li[2]/div
+2018-09-26 14:19:17,931 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="logisticsInfo"]/following-sibling::button/span
+2018-09-26 15:11:21,832 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://input[@type="text"]
+2018-09-26 15:11:21,881 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://input[@type="password"]
+2018-09-26 15:11:21,920 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="operation"]/following-sibling::button
+2018-09-26 15:12:47,911 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://input[@type="text"]
+2018-09-26 15:12:47,959 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://input[@type="password"]
+2018-09-26 15:12:48,002 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="operation"]/following-sibling::button
+2018-09-26 15:13:43,288 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://input[@type="text"]
+2018-09-26 15:13:43,332 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://input[@type="password"]
+2018-09-26 15:13:43,381 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="operation"]/following-sibling::button
+2018-09-26 15:13:47,621 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="nav_box nav"]/ul/li[2]/div
+2018-09-26 15:13:50,888 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="nav_box nav"]/ul/li[2]//li[1]
+2018-09-26 15:13:55,196 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://tbody/tr[3]/td[1]/div
+2018-09-26 15:13:58,595 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://ul[@class="model_list"]/li[1]/label[1]/input
+2018-09-26 15:13:58,847 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://ul[@class="model_list"]/li[1]/label[2]/input
+2018-09-26 15:13:59,096 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://ul[@class="model_list"]/li[1]/input
+2018-09-26 15:13:59,185 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://ul[@class="img_list clear"]//li[1]/div
+2018-09-26 15:14:02,524 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://ul[@class="img_list clear"]//li[2]/div
+2018-09-26 15:14:08,697 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="logisticsInfo"]/following-sibling::button/span
+2018-09-26 15:17:10,973 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://input[@type="text"]
+2018-09-26 15:24:22,789 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://input[@type="text"]
+2018-09-26 15:24:22,895 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://input[@type="password"]
+2018-09-26 15:24:22,966 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="operation"]/following-sibling::button
+2018-09-26 15:24:27,075 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="nav_box nav"]/ul/li[2]/div
+2018-09-26 15:24:30,189 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="nav_box nav"]/ul/li[2]//li[1]
+2018-09-26 15:24:34,318 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://tbody/tr[3]/td[1]/div
+2018-09-26 15:24:37,552 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://ul[@class="model_list"]/li[1]/label[1]/input
+2018-09-26 15:24:37,667 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://ul[@class="model_list"]/li[1]/label[2]/input
+2018-09-26 15:24:37,738 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://ul[@class="model_list"]/li[1]/input
+2018-09-26 15:24:37,875 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://ul[@class="img_list clear"]//li[1]/div
+2018-09-26 15:24:40,401 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://ul[@class="img_list clear"]//li[2]/div
+2018-09-26 15:24:45,564 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="logisticsInfo"]/following-sibling::button/span
+2018-09-26 16:15:39,688 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://input[@type="text"]
+2018-09-26 16:15:39,826 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://input[@type="password"]
+2018-09-26 16:15:39,898 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="operation"]/following-sibling::button
+2018-09-26 16:15:44,002 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="nav_box nav"]/ul/li[2]/div
+2018-09-26 16:15:47,064 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="nav_box nav"]/ul/li[2]//li[1]
+2018-09-26 16:15:51,168 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://tbody/tr[3]/td[1]/div
+2018-09-26 16:15:54,382 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://ul[@class="model_list"]/li[1]/label[1]/input
+2018-09-26 16:15:54,457 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://ul[@class="model_list"]/li[1]/label[2]/input
+2018-09-26 16:15:54,526 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://ul[@class="model_list"]/li[1]/input
+2018-09-26 16:15:54,673 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://ul[@class="img_list clear"]//li[1]/div
+2018-09-26 16:15:57,699 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://ul[@class="img_list clear"]//li[2]/div
+2018-09-26 16:16:03,588 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="logisticsInfo"]/following-sibling::button/span
+2018-09-26 16:20:12,253 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://input[@type="text"]
+2018-09-26 16:20:12,436 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://input[@type="password"]
+2018-09-26 16:20:12,508 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="operation"]/following-sibling::button
+2018-09-26 16:20:16,615 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="nav_box nav"]/ul/li[2]/div
+2018-09-26 16:20:19,728 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="nav_box nav"]/ul/li[2]//li[1]
+2018-09-26 16:20:48,838 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://input[@type="text"]
+2018-09-26 16:20:48,933 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://input[@type="password"]
+2018-09-26 16:20:49,000 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="operation"]/following-sibling::button
+2018-09-26 16:20:53,107 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="nav_box nav"]/ul/li[2]/div
+2018-09-26 16:20:56,258 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="nav_box nav"]/ul/li[2]//li[1]
+2018-09-26 16:23:41,054 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://input[@type="text"]
+2018-09-26 16:23:41,161 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://input[@type="password"]
+2018-09-26 16:23:41,247 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="operation"]/following-sibling::button
+2018-09-26 16:23:45,356 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="nav_box nav"]/ul/li[2]/div
+2018-09-26 16:23:48,434 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="nav_box nav"]/ul/li[2]//li[1]
+2018-09-26 16:27:20,737 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://input[@type="text"]
+2018-09-26 16:27:20,856 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://input[@type="password"]
+2018-09-26 16:27:20,924 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="operation"]/following-sibling::button
+2018-09-26 16:27:25,030 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="nav_box nav"]/ul/li[2]/div
+2018-09-26 16:27:28,235 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="nav_box nav"]/ul/li[2]//li[1]
+2018-09-26 16:27:33,453 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://tbody/tr[3]/td[1]/div
+2018-09-26 16:27:36,631 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://ul[@class="model_list"]/li[1]/label[1]/input
+2018-09-26 16:27:36,784 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://ul[@class="model_list"]/li[1]/label[2]/input
+2018-09-26 16:27:36,846 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://ul[@class="model_list"]/li[1]/input
+2018-09-26 16:27:37,002 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://ul[@class="img_list clear"]//li[1]/div
+2018-09-26 16:27:39,931 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://ul[@class="img_list clear"]//li[2]/div
+2018-09-26 16:27:45,802 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="logisticsInfo"]/following-sibling::button/span
+2018-09-26 16:41:43,467 mail.py--> _attach_file 20: INFO ----->attach file C:\Users\yanxianhuiclearbos\PycharmProjects\firsttest\config\keyword.xls
+2018-09-26 16:41:44,870 mail.py--> send 20: INFO ----->发送邮件"ERP测试报告"成功! 收件人：825651673@qq.com。如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确
+2018-09-26 16:49:47,539 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://input[@type="text"]
+2018-09-26 16:49:47,630 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://input[@type="password"]
+2018-09-26 16:49:47,699 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="operation"]/following-sibling::button
+2018-09-26 16:49:51,782 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="nav_box nav"]/ul/li[2]/div
+2018-09-26 16:49:54,914 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="nav_box nav"]/ul/li[2]//li[1]
+2018-09-26 16:49:59,037 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://tbody/tr[3]/td[1]/div
+2018-09-26 16:50:02,236 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://ul[@class="model_list"]/li[1]/label[1]/input
+2018-09-26 16:50:02,347 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://ul[@class="model_list"]/li[1]/label[2]/input
+2018-09-26 16:50:02,418 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://ul[@class="model_list"]/li[1]/input
+2018-09-26 16:50:02,567 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://ul[@class="img_list clear"]//li[1]/div
+2018-09-26 16:50:05,446 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://ul[@class="img_list clear"]//li[2]/div
+2018-09-26 16:50:11,292 find_element.py--> get_element 20: INFO ----->定位方式:xpath--->定位值://div[@class="logisticsInfo"]/following-sibling::button/span
+2018-09-26 16:50:16,800 mail.py--> _attach_file 20: INFO ----->attach file C:\Users\yanxianhuiclearbos\PycharmProjects\firsttest\config\keyword.xls
+2018-09-26 16:50:17,164 mail.py--> send 20: INFO ----->发送邮件"ERP测试报告"成功! 收件人：825651673@qq.com。如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确
